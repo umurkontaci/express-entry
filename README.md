@@ -1,14 +1,14 @@
-Express Entry
+# Express Entry
 
 Downloads the CIC Express Entry PR draw data from CIC and renders it in parseable format.
 
-Installation
+# Installation
 ```
 virtualenv env
 source env/bin/activate
 ```
 
-Usage
+# Usage
 ```
 usage: app.py [-h] [-f {csv,human,plot}=human]
 
